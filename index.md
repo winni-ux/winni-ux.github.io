@@ -1,4 +1,9 @@
 # Obelix ist einfach der Grösste
-Er hat die meiste Kraft
+Er hat die meiste Kraft.
 Er hat immer einen Plan
-und Hunger hat er sowieso immer
+und Hunger hat er sowieso immer.
+## Was macht ihn aus?
+* Er liebt Wildschweinbraten
+* Er liebt Prügeleien mit Römern
+* Seinen Lebensunterhalt verdient er mit Hinkelsteinen
+* Diese 2 Meter Steine hebt er mit einer Hand
