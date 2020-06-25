@@ -12,3 +12,4 @@ Selbst wenn seinem Freund Asterix nichts mehr einfällt,
 weiss Obelix immer Rat:
 > Wir gehen einfach rein und
 > hauen alles kurz und klein.
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Asterix%26Obelix_Brussels.jpg/400px-Asterix%26Obelix_Brussels.jpg/>
