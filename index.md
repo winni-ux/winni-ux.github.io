@@ -7,3 +7,8 @@ und Hunger hat er sowieso immer.
 * Er liebt Prügeleien mit Römern
 * Seinen Lebensunterhalt verdient er mit Hinkelsteinen
 * Diese 2 Meter Steine hebt er mit einer Hand
+## Zitate
+Selbst wenn seinem Freund Asterix nichts mehr einfällt,
+weiss Obelix immer Rat:
+> Wir gehen einfach rein und
+> hauen alles kurz und klein.
